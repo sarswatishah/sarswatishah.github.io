@@ -98,14 +98,15 @@ Note: You can redistribute it and/or modify it under the terms of the GNU Genera
     <!-- Contact Info on the Sidebar -->
     <div class="col-lg-4 col-xl-3">
       <p>
-      <!--<img class="img-fluid" src="photo/Le Petit Prince.jpeg" width="400rem" alt="">-->
+      <!--<img class="img-fluid" src="photo/Ulm.jpg" width="400rem" alt="">-->
       <img class="img-fluid" src="photo/Rhode.jpg" alt="">
       </p>
       <address>
       <strong>Mailing address:</strong><br>
-      MA-C2-643, MATH-MCSS<br>
-      École Polytechnique Fédérale de Lausanne<br>
-      Station 8, 1015 Lausanne, Switzerland<br>
+      Office 3, Instituto de Matemáticas<br>
+      Universidad Nacional Autónoma de México<br>
+      Blvd Juriquilla # 3001, Juriquilla-76230
+     Querétaro, México<br>
       <strong>Email:</strong> junming.duan@epfl.ch<br>
       </address>
       <p>
@@ -113,7 +114,7 @@ Note: You can redistribute it and/or modify it under the terms of the GNU Genera
       <a href="https://scholar.google.com/citations?user=cK3Xg5wAAAAJ&hl=en" target="_blank"><img src="icons/google-scholar.svg" width="24" height="24"></a> &nbsp;
       <a href="https://www.researchgate.net/profile/Sarswati_Shah" target="_blank"><img src="icons/research-gate.svg" width="24" height="24"></a> &nbsp;
       <a href="https://github.com/JunmingDuan" target="_blank"><img src="icons/Github_Logo.png" width="24" height="24"></a> &nbsp;
-      <a href="mailto:duanjm@pku.edu.cn" target="_blank"><img src="icons/mail.svg" width="26" height="26"></a> &nbsp;
+      <a href="mailto:sarswatishah@im.unam.mx" target="_blank"><img src="icons/mail.svg" width="26" height="26"></a> &nbsp;
       </p>
     </div>
 
@@ -491,3 +492,5 @@ Peking University, Fall, 2016.
     
 <!-- end of skill -->
         </body>
+
+    </html>
