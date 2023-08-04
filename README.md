@@ -99,7 +99,7 @@ Note: You can redistribute it and/or modify it under the terms of the GNU Genera
     <div class="col-lg-4 col-xl-3">
       <p>
       <!--<img class="img-fluid" src="photo/Le Petit Prince.jpeg" width="400rem" alt="">-->
-      <img class="img-fluid" src="photo/Bielersee.jpeg" alt="">
+      <img class="img-fluid" src="photo/Rhode.jpg" alt="">
       </p>
       <address>
       <strong>Mailing address:</strong><br>
