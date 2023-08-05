@@ -107,13 +107,13 @@ Note: You can redistribute it and/or modify it under the terms of the GNU Genera
       Universidad Nacional Autónoma de México<br>
       Blvd Juriquilla # 3001, Juriquilla-76230
      Querétaro, México<br>
-      <strong>Email:</strong> junming.duan@epfl.ch<br>
+      <strong>Email:</strong> sarswatishah@im.unam.mx<br>
       </address>
       <p>
       <!-- Links on the Sidebar -->
-      <a href="https://scholar.google.com/citations?user=cK3Xg5wAAAAJ&hl=en" target="_blank"><img src="icons/google-scholar.svg" width="24" height="24"></a> &nbsp;
       <a href="https://www.researchgate.net/profile/Sarswati_Shah" target="_blank"><img src="icons/research-gate.svg" width="24" height="24"></a> &nbsp;
-      <a href="https://github.com/JunmingDuan" target="_blank"><img src="icons/Github_Logo.png" width="24" height="24"></a> &nbsp;
+      <a href="https://scholar.google.com/citations?user=cK3Xg5wAAAAJ&hl=en" target="_blank"><img src="icons/google-scholar.svg" width="24" height="24"></a> &nbsp;
+      <a href="https://github.com/sarswatishah" target="_blank"><img src="icons/Github_Logo.png" width="24" height="24"></a> &nbsp;
       <a href="mailto:sarswatishah@im.unam.mx" target="_blank"><img src="icons/mail.svg" width="26" height="26"></a> &nbsp;
       </p>
     </div>
@@ -136,6 +136,7 @@ Note: You can redistribute it and/or modify it under the terms of the GNU Genera
         </p>
       </div>
 
+      
       <h2>Research Interests</h2>
       <p>
       <ul style="list-style-position:inside;margin:0px;padding:0px;">
