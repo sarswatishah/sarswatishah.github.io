@@ -140,28 +140,25 @@ Note: You can redistribute it and/or modify it under the terms of the GNU Genera
       <h2>Research Interests</h2>
       <p>
       <ul style="list-style-position:inside;margin:0px;padding:0px;">
-        <li>Numerical methods for hyperbolic conservation laws</li>
-        <li>Computational fluid dynamics</li>
-        <li>High-order accurate numerical methods</li>
-        <li>Structure-preserving methods</li>
-        <li>Moving mesh methods</li>
-        <li>Reduced-order modeling</li>
-        <li>Data-driven methods and scientific machine learning</li>
+        <li>Hyperbolic Conservation Laws and Systems with Non-Conservative Products</li>
+        <li>Numerical Simulation and Riemann Problems</li>
+        <li>Group Theoretic Solutions of Quasilinear PDEs</li>
+        <li>Geophysical Fluid Dynamics and Atmospheric Sciences</li>
+        <li>Multiphase Flow</li>
       </ul>
       </p>
 
       <h2>Education</h2>
-      <h5>Ph.D. in Computational Mathematics</h5>
+      <h5>Ph.D. in Applied Mathematics</h5>
       <p>
-      Peking University, China (Sep, 2016 -- Jul, 2021)<br>
-      Thesis: Entropy stable numerical methods for special
-      relativistic (magneto)hydrodynamics<br>
-      Advisor: <a href="http://dsec.pku.edu.cn/~tanghz/" style="color:black">Prof. Huazhong Tang</a>
+       University of Delhi, India (Oct, 2016 -- March, 2021)<br>
+      Thesis: EVOLUTION OF NONLINEAR WAVES IN QUASILINEAR HYPERBOLIC SYSTEMS <br>
+      Advisor: <a href="https://www.researchgate.net/profile/Randheer-Singh-4" style="color:black">Prof. Randheer Singh</a>
       </p>
 
-      <h5>B.Sc. in Information and Computing Science</h5>
+      <h5>M.Sc. in Mathematics</h5>
       <p>
-      Peking University, China (Sep, 2012 -- Jul, 2016)<br>
+      Deen Dayal Upadhyay Gorakhpur University, India (Aug, 2013 -- Jul, 2015)<br>
       </p>
     </div>
   </div>
